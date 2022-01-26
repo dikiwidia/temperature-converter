@@ -1,6 +1,5 @@
-# shamo
-
-A new Flutter project.
+# temperature-converter
+Flutter temperature converter, example converter by flutter
 
 ## Getting Started
 
